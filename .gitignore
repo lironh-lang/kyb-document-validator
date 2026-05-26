@@ -1,0 +1,9 @@
+waltz-kyb/backend/kyb.db
+waltz-kyb/backend/uploads/
+waltz-kyb/backend/.env
+waltz-kyb/frontend/node_modules/
+waltz-kyb/frontend/dist/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
